@@ -1,0 +1,21 @@
+# Packages
+dist
+build
+eggs
+parts
+bin
+var
+lib
+lib64
+
+# JS packages
+node_modules
+libs
+
+# Mr Developer
+.cache
+.project
+.idea
+.scannerwork
+.sonarlint
+.vscode

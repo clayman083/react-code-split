@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "importHelpers": true,
+        "jsx": "react",
+        "lib": [ "es6", "dom" ],
+        "noImplicitAny": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "outDir": "./dist/",
+        "preserveConstEnums": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "target": "es5",
+    },
+
+    "include": [
+        "./src/**/*"
+    ],
+
+    "types": [
+        "node"
+    ],
+}
